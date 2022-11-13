@@ -1,5 +1,4 @@
 month = int(input("Enter month: "))
-
 if month >=3 and month <6:
     print("Spring")
 elif month >= 6 and month < 9:
