@@ -38,10 +38,10 @@ c = int(n[2])
 
 
 # найти сумму четных чисел в строке
-# s = input()
-# sum = 0
-# for i in range(len(s)):
-#     if int(s[i]) % 2 == 0:
-#         sum += int(s[i])
-#     print(sum)
+s = input()
+sum = 0
+for i in range(len(s)):
+    if int(s[i]) % 2 == 0:
+        sum += int(s[i])
+    print(sum)
 
